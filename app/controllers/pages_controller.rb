@@ -15,7 +15,6 @@ class PagesController < ApplicationController
   end
 
   def help
-   @base_title = "Ruby on Rails Tutorial Sample App | "
    @title = "help"
   end
 end
